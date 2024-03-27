@@ -24,7 +24,7 @@ export const Header: React.FC = () => {
     return (
         <SafeAreaView style={styles.container}>
             <Image style={styles.logo} source={images.appLogo} resizeMode="contain"></Image>
-            <Image source={images.croppedLogo} style={styles.cropped}></Image>
+            
             <TouchableOpacity onPress={toggleModal}>
                 <Modal transparent={true} visible={modalVisible} onRequestClose={() => {
                     setModalVisible(!modalVisible)

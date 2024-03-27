@@ -20,7 +20,6 @@ export const createHTML=(data: ReportFormData): string => {
                 <div class="header">
                   <img class='proinspec-logo' src="file:///android_asset/images/ProInspec-LOGO.png" />
                   <span class="texto_header">Relatório de Reparo</span>
-                  <img class="eldorado-brasil" src="file:///android_asset/images/Eldorado-Full.png"/>
                   
                 </div>
             
@@ -50,7 +49,6 @@ export const createHTML=(data: ReportFormData): string => {
           <div class="header">
           <img class='proinspec-logo' src="file:///android_asset/images/ProInspec-LOGO.png" />
             <span class="texto_header">Relatório de Reparo</span>
-            <img class="eldorado-brasil" src="file:///android_asset/images/Eldorado-Full.png"/>
           </div>
       
           <div class="grid_fotos">

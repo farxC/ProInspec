@@ -7,7 +7,6 @@ const Header = () => {
     return (
         <View style={headerhomestyles.header_homepage}>
             <Image source={images.appLogo} style={[headerhomestyles.appName, { margin: 0 }]} />
-            <Image source={images.fullfiledLogo} style={headerhomestyles.logoFullfiled} ></Image>
         </View>
 
     )
