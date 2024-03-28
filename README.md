@@ -16,6 +16,7 @@ Esse aplicativo tem intuito de gerar relatórios de reparo utilizando TypeScript
 
 ![image](https://github.com/farxC/ProInspec/assets/83882306/27c5157d-ce6b-41d6-bab3-2ed3ff73f8ce) ![image](https://github.com/farxC/ProInspec/assets/83882306/2d904dfa-b038-4b92-9995-292ab663088c)
 
+                                                                                                  ![Screenshot from 2024-03-27 21-13-44](https://github.com/farxC/ProInspec/assets/83882306/4be83ae9-a284-4093-aa09-344b2cd7edb6)
 
 ![image](https://github.com/farxC/ProInspec/assets/83882306/ed37403b-37ad-4906-80d8-fc4ef5505c17) ![image](https://github.com/farxC/ProInspec/assets/83882306/7e2b07c7-5577-49ce-81a2-ed8e18cc760c)
 
