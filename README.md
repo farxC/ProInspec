@@ -19,10 +19,10 @@ This application is intended to generate repair reports using TypeScript and Rea
 [*!Screens to detail the repair!*]
 ![image](https://github.com/farxC/ProInspec/assets/83882306/27c5157d-ce6b-41d6-bab3-2ed3ff73f8ce) ![image](https://github.com/farxC/ProInspec/assets/83882306/2d904dfa-b038-4b92-9995-292ab663088c)                    
 
-[*!Sharing and viewing the report screen!*]
+                           [*Sharing and viewing the report screen*]
 ![Screenshot from 2024-03-27 21-13-15](https://github.com/farxC/ProInspec/assets/83882306/8c2f0cdb-f390-4f1a-a3f7-915e6c147371)
 
- [*!The report finished in PDF extension!*]
+ [*The report finished in PDF extension*]
   ![image](https://github.com/farxC/ProInspec/assets/83882306/d71837c8-a683-409a-b37b-2fa8aae46a9b)
   ![image](https://github.com/farxC/ProInspec/assets/83882306/7e2b07c7-5577-49ce-81a2-ed8e18cc760c)
 
