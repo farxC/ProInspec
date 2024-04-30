@@ -10,7 +10,7 @@ Emanuella Nunes @EmanuellaNunes
 
 This application is intended to generate repair reports using TypeScript and React-Native. 
 
-                                                                                          [*Homepage*]
+                                      *Homepage*
 ![image](https://github.com/farxC/ProInspec/assets/83882306/9312e572-5132-4211-8ea8-28bb1b62b419) ![Screenshot from 2024-03-27 21-02-44](https://github.com/farxC/ProInspec/assets/83882306/77a0d19c-615e-4799-969f-0eb13107df6c)
 
                               [*User creation report screen*]
